@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-'''
+"""
 Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre: 
 a) a área do triângulo retângulo que tem A por base e C por altura. 
 b) a área do círculo de raio C. (pi = 3.14159) 
@@ -26,7 +26,7 @@ Exemplos de Entrada	    Exemplos de Saída
                         TRAPEZIO: 175.560
                         QUADRADO: 108.160
                         RETANGULO: 132.080
-'''
+"""
 
 entrada = input()
 numerosStr = entrada.split(" ")
